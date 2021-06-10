@@ -1,0 +1,9 @@
+What is Python used for?
+
+Compared to many languages, Python is easy to learn and to use. Its functions can be carried out with simpler commands and less text than most competing languages. And this might explain why it’s soaring in popularity, with developers, coding students and tech companies.
+
+It’s not an exaggeration to say that Python plays a small part of all of our lives. It’s one of those invisible forces with a presence in our mobile devices, web searches and gaming (and beyond). So it was an obvious choice for inclusion in our full stack coding bootcamp. Here’s an introduction to the language itself, and some of the everyday but profound, things that Python is used for.
+
+
+
+https://www.pythontutorial.net/python-basics/python-read-text-file/
